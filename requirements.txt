@@ -1,7 +1,3 @@
-pickle
-unidecode
+
 openai
 streamlit
-pathlib
-re
-pathlib
